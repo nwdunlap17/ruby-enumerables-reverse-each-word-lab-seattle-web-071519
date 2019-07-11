@@ -4,4 +4,4 @@ def reverse_each_word(string)
   p array
 end
 
-reverse_each_word("daeR .shit")
+reverse_each_word("daeR .siht")
