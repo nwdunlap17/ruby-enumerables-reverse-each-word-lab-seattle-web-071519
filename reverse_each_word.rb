@@ -4,3 +4,5 @@ def reverse_each_word(string)
   reverse = array.collect{}
   p reverse
 end
+
+reverse_each_word("Hello")
